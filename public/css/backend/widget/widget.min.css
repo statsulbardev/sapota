@@ -1,0 +1,75 @@
+/* background color */
+.bg-red{background-color:#ff6b6b}
+.bg-blue{background-color:#358ed7}
+.bg-green{background-color:#7dc855}
+.bg-purple{background-color:#838cc7}
+.bg-inverse{color:#fff}
+.bg-gray-light-o{background-color:rgba(0,20,35,.07)}
+.bg-transparent{background-color:transparent!important}
+
+/* custom header */
+.custom-h2, .custom-h3, .custom-h6{font-weight:600;line-height:1.5;color:#32325d}
+.custom-h2{font-size:1.25rem}
+.custom-h3{font-size:1.0625rem}
+.custom-h6{font-size:.725rem}
+
+/* margin settings */
+.m-r{margin-right:16px!important}
+.m-b-xs{margin-bottom:4px!important}
+.m-t-0{margin-top:0!important}
+.m-t-sm{margin-top:8px!important}
+.m-b-0{margin-bottom:0!important}
+
+/* first widget settings */
+a.card-first-widget:not(.bg-inverse){color:inherit}
+a.card-first-widget{display:block;font-weight:inherit}
+.card-first-widget:not([class*=bg-]){background-color:#fff}
+.card-first-widget{margin-bottom:24px;margin-left:20px;margin-right:20px;border-radius:.375rem;box-shadow:0 1px 2px rgba(0,0,0,.14)}
+
+.card-block:first-child{border-top-right-radius:3px;border-top-left-radius:3px}
+.card-block{padding:24px 34px}
+.card-block>.row:first-child>[class*=col-]>:first-child,.card-block>:first-child{margin-top:0}
+.card-block>:last-child{margin-bottom:0}
+
+.img-avatar.img-avatar-48{width:48px;height:48px;line-height:48px}
+.img-avatar{display:inline-block!important;width:64px;height:64px;line-height:64px;text-align:center;vertical-align:middle;border-radius:50%}
+
+.row-up{margin-top:1.5rem}
+
+.fa-1-5x{font-size:1.5em}
+
+.bg-inverse .text-muted{color:rgba(255,255,255,.7)}
+
+/* second & third widget settings */
+.align-items-center{align-items:center!important}
+.card-argon-widget{position:relative;display:flex;flex-direction:column;min-width:0;margin-left:20px;margin-right:20px;word-wrap:break-word;background-color:#fff;background-clip:border-box;border:2px solid rgba(0,0,0,.07);border-radius:.375rem}
+.card-argon-header{padding:1.25rem 1.5rem;margin-bottom:0;background-color:#fff;border-bottom:2px solid rgba(0,0,0,.07)}
+.card-argon-header:first-child{border-radius:calc(.375rem - 1px) calc(.375rem - 1px) 0 0}
+.col{flex-basis:0;flex-grow:1;max-width:100%;position:relative;width:100%;min-height:1px;padding-right:15px;padding-left:15px}
+.row{display:flex;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}
+.mb-0, .my-0{margin-bottom:0!important;margin-top: 0!important}
+.mb-1, .my-1{margin-bottom:.25rem!important}
+.text-right{text-align:right!important}
+
+/* second widget settings */
+.card-body{flex:1 1 auto;padding:1.5rem}
+.chart{margin-top:10px;position:relative;height:100%}
+.ls-1{letter-spacing:.0625rem}
+.text-argon-muted{color:#8898aa!important}
+.text-uppercase{text-transform:uppercase!important}
+
+/* third widget settings */
+.border-0{border:0!important;}
+.btn-frontend, .btn-frontend:hover{color:#fff;background-color:#0e7bbc;border-color:#0e7bbc}
+.btn-purple, .btn-purple:hover{color:#fff;background-color:#838cc7;border-color:#838cc7}
+.btn-frontend, .btn-purple{box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08)}
+.card-argon-widget .dashboard-table{margin-bottom:0}
+.card-argon-widget .dashboard-table td, .card-argon-widget .dashboard-table th{padding-left:1.5rem;padding-right:1.5rem}
+.dashboard-table{width:100%;margin-bottom:1rem;background-color:transparent}
+.dashboard-table td, .dashboard-table th{font-size:.8125rem;white-space:nowrap;padding:1rem;vertical-align:top;border-top:1px solid #e9ecef}
+.dashboard-table th{font-weight:600}
+.dashboard-table .thead-light th{background-color:#f6f9fc;color: #8898aa;border-color:#e9ecef}
+.dashboard-table.align-items-center td, .dashboard-table.align-items-center th{vertical-align:middle}
+.dashboard-table thead th{padding-top:.75rem;padding-bottom:.75rem;font-size:.8125rem;text-transform:uppercase;letter-spacing:1px;border-bottom:1px solid #e9ecef;vertical-align:bottom}
+.table-flush td, .table-flush th{border-left:0;border-right:0}
+.table-responsive{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;-ms-overflow-style: -ms-autohiding-scrollbar}

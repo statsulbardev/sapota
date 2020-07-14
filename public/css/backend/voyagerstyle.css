@@ -1,0 +1,206 @@
+body {
+    font-size: 11pt !important;
+}
+
+label {
+    margin-bottom: 10px !important;
+}
+#form-input {
+    border: 1px solid #777;
+    border-radius: 5px;
+    text-align: right;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.voyager .btn-add-table {
+    margin-top: 2px;
+}
+
+#dataTable #bread-actions .add {
+    margin-left: 5px;
+}
+
+.contentzone {
+    background-color: #E4E4E4 !important;
+    border: 2px solid transparent !important;
+    border-radius: 5px;
+    min-height: 150px;
+}
+
+.centercontentzone {
+    text-align: center;
+    margin: 2em 0;
+}
+
+.icon {
+    font-size: 80px;
+    color: #777;
+}
+
+.label {
+    font-weight: 800!important;
+}
+
+.custom-content {
+    margin-left: 70px;
+    margin-right: 60px;
+}
+
+.control-label {
+    font-size: 15pt;
+    font-weight: 400;
+    color: #555;
+}
+
+.plain-label {
+    font-size: 12pt;
+}
+
+.custom-panel-body {
+    padding: 0 !important;
+}
+
+.custom-form-group {
+    margin-bottom: 25px;
+}
+
+.right-padding {
+    padding-right: 35px;
+}
+
+.sized-padding {
+    padding-left: 40px;
+    padding-right: 1px !important;
+}
+
+.size-padding {
+    padding-left: 40px;
+}
+
+.form-control {
+    border-radius: 5px !important;
+    border: 1px solid #E4E4E4 !important;
+    height: 52px;
+    line-height: 28px !important;
+}
+
+.select2-selection {
+    border-radius: 5px !important;
+    border: 1px solid #E4EAEC !important;
+    padding: 4px 10px;
+    line-height: 28px !important;
+}
+
+.select2-selection__arrow {
+    top: 25% !important;
+    right: 2% !important;
+}
+
+.select2-container--default .select2-selection--single {
+    height: 52px !important;
+    padding: 10px 10px;
+    line-height: 28px !important;
+}
+
+.simpan {
+    border-radius: 5px !important;
+    padding: 17px 40px !important;
+    font-size: 14pt;
+    float: right;
+}
+
+#search-input button {
+    border-left: none !important;
+    right: 50px !important;
+    top: 20% !important;
+}
+
+.input-group-btn {
+    width: 0% !important;
+}
+
+.table {
+    background-color: white !important;
+}
+
+.right-custom-item {
+    float: right;
+}
+
+.custom-card {
+    background-color: transparent !important;
+    border: 1px solid rgba(0,0,0,.125) !important;
+    border-radius: 5px;
+}
+
+.border-warning {
+    border-color: #F2A654 !important;
+}
+
+.border-info {
+    border-color: #57c7d4 !important;
+}
+
+.border-blue {
+    border-color: #22a7f0 !important;
+}
+
+.bg-transparent {
+    background-color: transparent!important;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: rgba(0,0,0,.03);
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+
+.card-body {
+    padding: .75rem 1.25rem !important;
+}
+
+.custom-label {
+    border-radius: 25px !important;
+    padding: 8px 15px;
+}
+
+.indikator-title {
+    font-size: 18pt;
+    font-weight: 600;
+    color: #555;
+}
+
+.text-periksa {
+    font-size: 12pt !important;
+    font-weight: 600 !important;
+}
+
+.badge {
+    padding: 12px 12px !important;
+}
+
+.space-margin-left {
+    margin-left: 10px;
+}
+
+.space-more-margin-left {
+    margin-left: 50px;
+}
+
+.middle-position {
+    vertical-align: middle !important;
+}
+
+.box {
+    margin: 0px auto;
+    width: auto;
+    height: 50px;
+}

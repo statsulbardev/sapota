@@ -14,3 +14,4 @@ Untuk pengembangan aplikasi berikut caranya:
 2. Gunakan cmd/terminal kemudian masuk ke direktori hasil clone.
 3. Jalankan perintah `composer update`.
 4. Buat string key untuk framework laravel dengan mengetik perintah `php artisan key:generate`.
+5. Untuk memasang database jalankan perintah `php artisan migrate`.
